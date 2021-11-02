@@ -1,2 +1,9 @@
-# BlackOpticalCylinder
-This is program for the pseudo experiment. The beam passes through a glass cylinder with a cylindrical cavity. You can configure the initial and final parameters, as well as watch the process using the program visualisation.py
+# Оптический серый ящик
+
+Эта задача была предложена на учебно-тренировочных сборах в 2021 году. Задача представляет собой компьютерный расчет реальной экспериментальной задачи, предлагавшейся на заключительном этапе Всероссийской олимпиады школьников по физике в 2021 году в 10 классе.
+* Условие задачи можно найти [здесь](https://pho.rs/p/1329).
+* Общие подходы к решению можно найти [в решении](https://pho.rs/p/254/s) экспериментальной задачи на ВсОШ.
+
+Автор исходного кода: [Фёдор Оксаниченко](https://github.com/OksanichenkoFedor).
+
+Исполняемый файл (``main.exe``) доступен только для Windows и находится в папке ``executables``. Его можно просто скачать, запускать и использовать. Для визуализации хода лучей в результате преломления можно использовать файл ``visualisation.exe``.
